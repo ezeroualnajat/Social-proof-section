@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'League Spartan', sans-serif;
+	background-color: #ffffff;
+	background-image: url(./svgs/bg-pattern-top-desktop.svg),
+		url(./svgs/bg-pattern-bottom-desktop.svg);
+	background-repeat: no-repeat;
+	background-position: left top, right bottom;
+	min-height: 100dvh;
+}
